@@ -24,7 +24,7 @@ A robust installation script for Nginx Proxy Manager on Ubuntu 24.04. This scrip
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/agilehost-io/npm-installer/main/install-npm.sh
+wget https://raw.githubusercontent.com/megamvb/NPM-Install/refs/heads/main/install-npm.sh
 
 # Make it executable
 chmod +x install-npm.sh
@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Credits
 
-Developed by [Marcos V Bohrer](https://github.com/marcosbohrer) at [AgileHost](https://www.agilehost.com.br).
+Developed by [Marcos V Bohrer](https://github.com/megamvb) at [AgileHost](https://www.agilehost.com.br).
 
 Based on the original [Nginx Proxy Manager](https://nginxproxymanager.com/) project.
 
